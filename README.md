@@ -43,7 +43,7 @@ def manhattan_distance(node):
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/kfahchai-netizen/COS30019-INTRO-TO-AI-KLOTSKI-PUZZLE.git
+git clone https://github.com/kfahchai/COS30019-INTRO-TO-AI-KLOTSKI-PUZZLE.git
 cd "COS30019-INTRO-TO-AI-KLOTSKI-PUZZLE/Kloiski Puzzle"
 pip install matplotlib
 python klotski_gui.py
